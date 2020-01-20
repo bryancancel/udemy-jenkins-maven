@@ -12,11 +12,11 @@ public class JenkinsCalculatorTest {
 		assertEquals(10, jenkinsCalculator.addNumbers(5, 5));
 	}
 
-	@Test
-	public void subtractNumbersTest() {
-		// test subtract method
-		JenkinsCalculator jenkinsCalculator = new JenkinsCalculator();
-		assertEquals(5, jenkinsCalculator.subtractNumbers(10, 5));
-	}
+	// @Test
+	// public void subtractNumbersTest() {
+	// 	// test subtract method
+	// 	JenkinsCalculator jenkinsCalculator = new JenkinsCalculator();
+	// 	assertEquals(5, jenkinsCalculator.subtractNumbers(10, 5));
+	// }
 
 }
